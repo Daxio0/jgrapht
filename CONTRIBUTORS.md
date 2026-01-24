@@ -165,6 +165,7 @@ JGraphT wouldn't be the library it is today without the source contributions and
 - [tobi-emx](https://github.com/tobi-emx)
 - [Pasha Finkelshteyn](https://github.com/asm0dey)
 - [Nicolas Rol](https://github.com/rolnico)
+- [Azim Barhoumi](https://github.com/Aziiiiim)
 
 (If we have missed your name on this list, please email us to get it fixed.)
 
